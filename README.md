@@ -5,7 +5,7 @@
 2. hosts地址: `C:\Windows\System32\drivers\etc`
 3. [点击下载 Sublime text3](https://www.sublimetext.com/)
 4. 打开sublime安装文件地址
-5. 下载上面的破解工具
+5. 获取上面的破解工具（st3_twitter_patch.exe）
 6. 将破解工具复制到安装文件地址
 7. 以管理员身份运行破解文件，复制破解文件中的注册码
 
